@@ -12,3 +12,10 @@ E:\Users\NingHuang\Projects\CSharp\MnFeLearn202309\MnFe\Leetcode\obj\Debug\net6.
 E:\Users\NingHuang\Projects\CSharp\MnFeLearn202309\MnFe\Leetcode\obj\Debug\net6.0\Leetcode.pdb
 E:\Users\NingHuang\Projects\CSharp\MnFeLearn202309\MnFe\Leetcode\obj\Debug\net6.0\Leetcode.genruntimeconfig.cache
 E:\Users\NingHuang\Projects\CSharp\MnFeLearn202309\MnFe\Leetcode\obj\Debug\net6.0\ref\Leetcode.dll
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\Leetcode\obj\Debug\net6.0\Leetcode.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\Leetcode\obj\Debug\net6.0\Leetcode.AssemblyInfoInputs.cache
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\Leetcode\obj\Debug\net6.0\Leetcode.AssemblyInfo.cs
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\Leetcode\obj\Debug\net6.0\Leetcode.csproj.CoreCompileInputs.cache
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\Leetcode\obj\Debug\net6.0\Leetcode.dll
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\Leetcode\obj\Debug\net6.0\refint\Leetcode.dll
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\Leetcode\obj\Debug\net6.0\Leetcode.pdb

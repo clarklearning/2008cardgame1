@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\Leetcode\\Leetcode.csproj": {}
+    "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\MnFe\\MnFe.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\Leetcode\\Leetcode.csproj": {
+    "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\MnFe\\MnFe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\Leetcode\\Leetcode.csproj",
-        "projectName": "Leetcode",
-        "projectPath": "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\Leetcode\\Leetcode.csproj",
+        "projectUniqueName": "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\MnFe\\MnFe.csproj",
+        "projectName": "MnFe",
+        "projectPath": "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\MnFe\\MnFe.csproj",
         "packagesPath": "C:\\Users\\凝璜\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\Leetcode\\obj\\",
+        "outputPath": "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\MnFe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\凝璜\\AppData\\Roaming\\NuGet\\NuGet.Config",

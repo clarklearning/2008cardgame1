@@ -9,12 +9,11 @@ namespace EventExample
     {
         static void Main(string[] args)
         {
-
-            Customer customer = new Customer();
-            Waiter waiter = new Waiter();
-            customer.Order += waiter.Action;
-            customer.Action();
-            customer.PayTheBill();
+            //Customer customer = new Customer();
+            //Waiter waiter = new Waiter();
+            //customer.Order += waiter.Action;
+            //customer.Action();
+            //customer.PayTheBill();
 
         }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b4gfMIp87TYvdc73pioDbQ6fsazked1WcuGEJAmA/qypBTCIc3eDJYK/p38OAjTf0xcsge++eSj7YbueR4Jsww==",
+  "dgSpecHash": "o6a2yVz/8/WDamJU4tCaXuVyVDJsxI+7/RPuTwGakUwT6WaUqMc1LxT2VTrVDnWz2+TIN2D+VCIb+cnQ7fQ1BQ==",
   "success": true,
-  "projectFilePath": "E:\\Users\\NingHuang\\Projects\\CSharp\\MnFeLearn202309\\MnFe\\Leetcode\\Leetcode.csproj",
+  "projectFilePath": "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\Leetcode\\Leetcode.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

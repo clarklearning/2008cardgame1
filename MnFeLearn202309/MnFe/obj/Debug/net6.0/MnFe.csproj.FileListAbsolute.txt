@@ -1,0 +1,14 @@
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\MnFe\bin\Debug\net6.0\MnFe.exe
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\MnFe\bin\Debug\net6.0\MnFe.deps.json
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\MnFe\bin\Debug\net6.0\MnFe.runtimeconfig.json
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\MnFe\bin\Debug\net6.0\MnFe.dll
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\MnFe\bin\Debug\net6.0\MnFe.pdb
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\MnFe\obj\Debug\net6.0\MnFe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\MnFe\obj\Debug\net6.0\MnFe.AssemblyInfoInputs.cache
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\MnFe\obj\Debug\net6.0\MnFe.AssemblyInfo.cs
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\MnFe\obj\Debug\net6.0\MnFe.csproj.CoreCompileInputs.cache
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\MnFe\obj\Debug\net6.0\MnFe.dll
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\MnFe\obj\Debug\net6.0\refint\MnFe.dll
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\MnFe\obj\Debug\net6.0\MnFe.pdb
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\MnFe\obj\Debug\net6.0\MnFe.genruntimeconfig.cache
+E:\Projects\CSharp\LearningCSharp\MnFeLearn202309\MnFe\obj\Debug\net6.0\ref\MnFe.dll

@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\凝璜\\.nuget\\packages\\": {},
-    "D:\\Program\\Visual Studio\\shared\\NuGetPackages": {}
+    "C:\\Users\\凝璜\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Users\\NingHuang\\Projects\\CSharp\\MnFeLearn202309\\MnFe\\Leetcode\\Leetcode.csproj",
+      "projectUniqueName": "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\Leetcode\\Leetcode.csproj",
       "projectName": "Leetcode",
-      "projectPath": "E:\\Users\\NingHuang\\Projects\\CSharp\\MnFeLearn202309\\MnFe\\Leetcode\\Leetcode.csproj",
+      "projectPath": "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\Leetcode\\Leetcode.csproj",
       "packagesPath": "C:\\Users\\凝璜\\.nuget\\packages\\",
-      "outputPath": "E:\\Users\\NingHuang\\Projects\\CSharp\\MnFeLearn202309\\MnFe\\Leetcode\\obj\\",
+      "outputPath": "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\Leetcode\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\Program\\Visual Studio\\shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\凝璜\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

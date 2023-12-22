@@ -1,0 +1,5 @@
+/home/ninghuang/Projects/CSharp/CSRepository/MnFe/obj/Debug/net7.0/MnFe.csproj.AssemblyReference.cache
+/home/ninghuang/Projects/CSharp/CSRepository/MnFe/obj/Debug/net7.0/MnFe.GeneratedMSBuildEditorConfig.editorconfig
+/home/ninghuang/Projects/CSharp/CSRepository/MnFe/obj/Debug/net7.0/MnFe.AssemblyInfoInputs.cache
+/home/ninghuang/Projects/CSharp/CSRepository/MnFe/obj/Debug/net7.0/MnFe.AssemblyInfo.cs
+/home/ninghuang/Projects/CSharp/CSRepository/MnFe/obj/Debug/net7.0/MnFe.csproj.CoreCompileInputs.cache

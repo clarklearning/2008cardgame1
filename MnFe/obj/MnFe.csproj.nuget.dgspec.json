@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\MnFe\\MnFe.csproj": {}
+    "/home/ninghuang/Projects/CSharp/CSRepository/MnFe/MnFe.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\MnFe\\MnFe.csproj": {
+    "/home/ninghuang/Projects/CSharp/CSRepository/MnFe/MnFe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\MnFe\\MnFe.csproj",
+        "projectUniqueName": "/home/ninghuang/Projects/CSharp/CSRepository/MnFe/MnFe.csproj",
         "projectName": "MnFe",
-        "projectPath": "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\MnFe\\MnFe.csproj",
-        "packagesPath": "C:\\Users\\凝璜\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\CSharp\\LearningCSharp\\MnFeLearn202309\\MnFe\\obj\\",
+        "projectPath": "/home/ninghuang/Projects/CSharp/CSRepository/MnFe/MnFe.csproj",
+        "packagesPath": "/home/ninghuang/.nuget/packages/",
+        "outputPath": "/home/ninghuang/Projects/CSharp/CSRepository/MnFe/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\凝璜\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ninghuang/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,12 +48,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
         }
       }
     }

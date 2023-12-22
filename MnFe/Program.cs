@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Threading;
-
+using GameMaker;
 
 // 事件
 namespace EventExample
@@ -14,7 +14,9 @@ namespace EventExample
             //customer.Order += waiter.Action;
             //customer.Action();
             //customer.PayTheBill();
-
+            String music = "music";
+            Console.WriteLine("this {0} {1}.", "that", music);
+            TextMgr textMgr = new TextMgr();
         }
     }
 

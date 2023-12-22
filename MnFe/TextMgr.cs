@@ -6,6 +6,7 @@ namespace GameMaker{
 
         void Display(){
             Console.WriteLine("this is {}",displayOne);
+            Console.WriteLine();
         }
     }
 }

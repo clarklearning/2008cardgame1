@@ -7,6 +7,9 @@ namespace EventExample
 {
     class Program
     {
+        public bool[,,] ReadonlyCells { get; } = new bool[2, 3, 3];
+
+        public String StrIt { get; set; }
         static void Main(string[] args)
         {
             //Customer customer = new Customer();
@@ -14,10 +17,11 @@ namespace EventExample
             //customer.Order += waiter.Action;
             //customer.Action();
             //customer.PayTheBill();
-            String music = "music";
-            Console.WriteLine("this {0} {1}.", "that", music);
-            TextMgr textMgr = new TextMgr();
         }
+
+
+        
+
     }
 
     public class OrderEventArgs

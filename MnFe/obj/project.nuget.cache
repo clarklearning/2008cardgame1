@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pUI4wmYryUDp3V0MQdJsH3POqUNWVSNbhnufTi3ht5bPSRtLdM7jA5vjtiyCvzJSfFeoJfGy97f1V9x/z83OiA==",
+  "dgSpecHash": "zKUYxja8vqifUkBH2n8c3FLdzhOqeVb60NeEip6XCO2eSy+GmBzG+S8yGyoRYepB8cDz25zyrWnTXrVRdCEVdQ==",
   "success": true,
-  "projectFilePath": "/home/ninghuang/Projects/CSharp/CSRepository/MnFe/MnFe.csproj",
-  "expectedPackageFiles": [
-    "/home/ninghuang/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.25/microsoft.netcore.app.host.linux-x64.6.0.25.nupkg.sha512"
-  ],
+  "projectFilePath": "E:\\Projects\\CSharp\\LearningCSharp\\MnFe\\MnFe.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

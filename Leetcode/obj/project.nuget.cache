@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/oG1+hS6hbvVh0tp03XtlYLcP7OjWYq9eui58dKpni+1n0qeMnFx9GxR6Zay8cJoGONEvyCBHtHBS541DhKWHA==",
+  "dgSpecHash": "SVmriojFphqS8npcB7YUWfOpk2QNRoMUTczDSVFh9Cm8/53VGKFrlfTnUvQBaJD8HnDDADJqYc8fgiT4z3V8Rg==",
   "success": true,
-  "projectFilePath": "/home/ninghuang/Projects/CSharp/CSRepository/Leetcode/Leetcode.csproj",
-  "expectedPackageFiles": [
-    "/home/ninghuang/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.25/microsoft.netcore.app.host.linux-x64.6.0.25.nupkg.sha512"
-  ],
+  "projectFilePath": "E:\\Projects\\CSharp\\LearningCSharp\\Leetcode\\Leetcode.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

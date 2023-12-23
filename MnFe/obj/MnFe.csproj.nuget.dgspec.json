@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/ninghuang/Projects/CSharp/CSRepository/MnFe/MnFe.csproj": {}
+    "E:\\Projects\\CSharp\\LearningCSharp\\MnFe\\MnFe.csproj": {}
   },
   "projects": {
-    "/home/ninghuang/Projects/CSharp/CSRepository/MnFe/MnFe.csproj": {
+    "E:\\Projects\\CSharp\\LearningCSharp\\MnFe\\MnFe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ninghuang/Projects/CSharp/CSRepository/MnFe/MnFe.csproj",
+        "projectUniqueName": "E:\\Projects\\CSharp\\LearningCSharp\\MnFe\\MnFe.csproj",
         "projectName": "MnFe",
-        "projectPath": "/home/ninghuang/Projects/CSharp/CSRepository/MnFe/MnFe.csproj",
-        "packagesPath": "/home/ninghuang/.nuget/packages/",
-        "outputPath": "/home/ninghuang/Projects/CSharp/CSRepository/MnFe/obj/",
+        "projectPath": "E:\\Projects\\CSharp\\LearningCSharp\\MnFe\\MnFe.csproj",
+        "packagesPath": "C:\\Users\\凝璜\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\CSharp\\LearningCSharp\\MnFe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ninghuang/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\凝璜\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,18 +50,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[6.0.25, 6.0.25]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

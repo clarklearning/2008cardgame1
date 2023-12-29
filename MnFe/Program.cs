@@ -1,6 +1,10 @@
 ﻿using System;
+using System.Diagnostics;
+using System.Drawing.Printing;
+using System.Runtime.InteropServices;
 using System.Threading;
 using GameMaker;
+using MyWork;
 
 // 事件
 namespace EventExample
@@ -12,16 +16,33 @@ namespace EventExample
         public String StrIt { get; set; }
         static void Main(string[] args)
         {
-            //Customer customer = new Customer();
-            //Waiter waiter = new Waiter();
-            //customer.Order += waiter.Action;
-            //customer.Action();
-            //customer.PayTheBill();
+            string a = "杀";
+            string b = "借刀杀人m";
+            Print(a.Length);
+            Print(b.Length);
         }
 
+        static void TestForExcel2HTML(){
+            string thispath = System.Environment.CurrentDirectory;
+            Console.WriteLine(thispath + "/MyWork/data.xlsx");
+            var db = Excel2HTML.Excel2Table(thispath + "/MyWork/data.xlsx", CompareFlag.Compare);
+        }
 
-        
+        static void TestForEvent(){
+            Customer customer = new Customer();
+            Waiter waiter = new Waiter();
+            customer.Order += waiter.Action;
+            customer.Action();
+            customer.PayTheBill();
+        }
 
+        static void Print(object print){
+            string output = "";
+            if(print != null){
+                output = print.ToString();
+            }
+            Console.WriteLine(output);
+        }
     }
 
     public class OrderEventArgs
@@ -44,6 +65,14 @@ namespace EventExample
             remove { this.orderEventHandler -= value; }
         }
         */
+        public static int NextId = 1;
+
+        public int Id {get;}
+
+        public Customer(){
+            Id = NextId;
+            NextId++;
+        }
         public event OrderEventHandler Order;
         public double Bill { get; set; }
 

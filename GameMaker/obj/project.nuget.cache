@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZYZeCdw2QFYoxbTrOtm6l4pmJHCh0swCXR0q1eEa4I+Qg6nHlWGoPgXDdAZ6is2dA312JfC9JZxDeGTLc2Lxdw==",
+  "success": true,
+  "projectFilePath": "/home/ninghuang/Projects/CSharp/CSRepository/GameMaker/GameMaker.csproj",
+  "expectedPackageFiles": [
+    "/home/ninghuang/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.25/microsoft.netcore.app.host.linux-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

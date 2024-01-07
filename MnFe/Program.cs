@@ -3,38 +3,25 @@ using System.Diagnostics;
 using System.Drawing.Printing;
 using System.Runtime.InteropServices;
 using System.Threading;
+using DiyCollection16;
 using GameMaker;
 using MyWork;
+using NPOI.SS.Formula.Functions;
 
 // 事件
-namespace EventExample
+namespace Running
 {
     class Program
     {
         public bool[,,] ReadonlyCells { get; } = new bool[2, 3, 3];
 
-        public String StrIt { get; set; }
+
         static void Main(string[] args)
         {
-            string a = "杀";
-            string b = "借刀杀人m";
-            Print(a.Length);
-            Print(b.Length);
+            Test.ForEnumerable();
         }
 
-        static void TestForExcel2HTML(){
-            string thispath = System.Environment.CurrentDirectory;
-            Console.WriteLine(thispath + "/MyWork/data.xlsx");
-            var db = Excel2HTML.Excel2Table(thispath + "/MyWork/data.xlsx", CompareFlag.Compare);
-        }
-
-        static void TestForEvent(){
-            Customer customer = new Customer();
-            Waiter waiter = new Waiter();
-            customer.Order += waiter.Action;
-            customer.Action();
-            customer.PayTheBill();
-        }
+        
 
         static void Print(object print){
             string output = "";

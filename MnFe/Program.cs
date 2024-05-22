@@ -18,7 +18,7 @@ namespace Running
 
         static void Main(string[] args)
         {
-            Test.ForEnumerable();
+            Test.ForLType();
         }
 
         

@@ -1,8 +1,13 @@
 using DiyCollection16;
 using MyWork;
+using Reflection17;
 using Running;
 
 class Test{
+
+    public static void ForLType(){
+        new LType();
+    }
     public static void ForExcel2HTML(){
             string thispath = System.Environment.CurrentDirectory;
             Console.WriteLine(thispath + "/MyWork/data.xlsx");
